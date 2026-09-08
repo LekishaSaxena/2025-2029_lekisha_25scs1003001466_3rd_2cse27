@@ -1,146 +1,487 @@
-# 2025-2029_lekisha_25scs1003001466_3rd_2cse27
+# 🤖 Artificial Intelligence Internship – Codec Technologies
 
-Artificial Intelligence Internship – Codec Technologies
+> **1 Month Internship | Web Developer Intern | AICTE & ICAC Approved**
 
-Internship Overview
+---
 
-This repository documents my learning journey and work completed during my 1 Month Internship at Codec Technologies Pvt. Ltd. The internship was conducted from 01 July 2026 to 30 July 2026 in a Web Developer Intern role under a hybrid, Pan-India program. The internship was AICTE & ICAC approved and focused on developing practical, industry-oriented skills through training, assigned tasks, and project work. fileciteturn3file1L30-L46
+## 📌 Repository
 
-The main purpose of the internship was to bridge the gap between academic learning and practical implementation. It helped me understand how technical concepts are applied in real projects, how to structure development work, troubleshoot problems, evaluate results, and document completed work.
+```text
+2025-2029_lekisha_25scs1003001466_3rd_2cse27
+```
 
-Internship Details
+This repository documents my **learning journey, technical skills, internship experience, and project work** completed during my **1 Month Internship at Codec Technologies Pvt. Ltd.**
 
-Detail
+---
 
-Information
+## 🏢 Internship Overview
 
-Organization
+I completed a **1 Month Internship** at **Codec Technologies Pvt. Ltd.** from **01 July 2026 to 30 July 2026** in the role of **Web Developer Intern**.
 
-Codec Technologies Pvt. Ltd.
+The internship was conducted through a **Pan-India Hybrid Program** and was **AICTE & ICAC Approved**. It focused on developing practical, industry-oriented skills through training, technical tasks, problem-solving activities, and project development.
 
-Role
+```text
+┌──────────────────────────────────────────────────────┐
+│                  INTERNSHIP DETAILS                  │
+├──────────────────────┬───────────────────────────────┤
+│ Organization         │ Codec Technologies Pvt. Ltd.  │
+│ Role                 │ Web Developer Intern          │
+│ Duration             │ 01 July – 30 July 2026        │
+│ Mode                 │ Pan India – Hybrid            │
+│ Internship Type      │ AICTE & ICAC Approved         │
+│ Reporting            │ Assigned Project Head(s)      │
+└──────────────────────┴───────────────────────────────┘
+```
 
-Web Developer Intern
+The internship was designed to provide exposure to **industry-level knowledge, practical implementation, project development, and technical problem-solving**.
 
-Duration
+---
 
-01/07/2026 – 30/07/2026
+## 🎯 Internship Objectives
 
-Mode
+The major objectives of the internship were:
 
-Pan India, Hybrid
+* To bridge the gap between **academic learning and practical implementation**
+* To understand real-world technical workflows
+* To improve programming and problem-solving skills
+* To gain practical exposure to **Python and Machine Learning**
+* To understand data preprocessing and analysis
+* To build and evaluate machine-learning models
+* To develop debugging and troubleshooting abilities
+* To improve technical documentation and project presentation
 
-Internship Type
+---
 
-AICTE & ICAC Approved
+# 📚 What I Learned During the Internship
 
-Reporting
+## 1. 💻 Practical Development Workflow
 
-Assigned Project Head(s)
+One of my major learnings was understanding how a technical project progresses from an initial idea to a working solution.
 
-The offer letter describes the program as an immersive experience intended to provide industry-level knowledge and valuable practical skills through projects and training tasks. fileciteturn3file1L36-L46
+I learned to:
 
-What I Learned During the Internship
+* Break complex problems into smaller tasks
+* Plan the implementation process
+* Experiment with different approaches
+* Test and validate solutions
+* Debug errors
+* Improve the final implementation
 
-1. Practical Development Workflow
+This helped me develop a more **structured and systematic approach to technical problem-solving**.
 
-One of the most important learnings was understanding how a technical project moves from an initial idea to a working solution. I learned to break a problem into smaller tasks, work systematically, test different approaches, and improve the final implementation.
+---
 
-2. Working With Real Project Requirements
+## 2. 📝 Understanding Project Requirements
 
-The internship gave me experience in understanding project objectives and converting them into technical steps. Instead of focusing only on theoretical concepts, I learned to think about usability, accuracy, implementation, testing, and documentation.
+The internship helped me understand how project requirements are converted into technical tasks.
 
-3. Problem Solving and Debugging
+Rather than focusing only on theoretical concepts, I learned to consider:
 
-Working on technical tasks helped me improve my ability to identify errors, understand why an approach was not working, and try alternative solutions. This strengthened my logical thinking and encouraged an experimental approach to development.
+```text
+Requirements
+     ↓
+Planning
+     ↓
+Implementation
+     ↓
+Testing
+     ↓
+Evaluation
+     ↓
+Improvement
+     ↓
+Documentation
+```
 
-4. Data and Technology Skills
+This gave me a better understanding of how practical technical projects are developed.
 
-During the internship, I gained practical exposure to Python-based development and machine-learning workflows. I learned how to work with datasets, clean data, explore patterns, preprocess text, create features, train models, and evaluate their performance.
+---
 
-5. Evaluation and Improvement
+## 3. 🛠️ Problem Solving & Debugging
 
-A major learning was that building a model is not the end of a project. Different algorithms and configurations need to be compared using appropriate evaluation metrics. This helped me understand the importance of testing, optimization, and selecting a solution based on results rather than assumptions.
+Technical tasks provided valuable experience in identifying and solving problems.
 
-6. Documentation and Professional Learning
+I improved my ability to:
 
-The internship also improved my ability to document technical work clearly. Preparing project explanations, recording results, organizing files, and presenting learnings are important professional skills that I developed during the internship.
+* Analyze errors
+* Identify possible causes
+* Test different solutions
+* Modify unsuccessful approaches
+* Validate results
+* Optimize implementations
 
-Project Work: SMS Spam Detection
+This strengthened my **logical thinking and debugging skills**.
 
-As part of the technical work, I developed an SMS Spam Detection machine-learning project. The objective was to classify SMS messages as Spam or Ham.
+---
 
-The project involved:
+## 4. 🐍 Python & Machine Learning
 
-Cleaning and preparing the SMS dataset
+During the internship, I gained practical exposure to **Python-based development and machine-learning workflows**.
 
-Removing duplicate records and unnecessary columns
+I learned about:
 
-Performing exploratory data analysis
+* Dataset handling
+* Data cleaning
+* Exploratory Data Analysis
+* Text preprocessing
+* Feature extraction
+* Model training
+* Model comparison
+* Performance evaluation
 
-Preprocessing text using tokenization, stopword removal, and stemming
+The experience helped me understand how programming and machine learning concepts can be combined to solve real-world problems.
 
-Converting text into numerical features using TF-IDF
+---
 
-Splitting the dataset into training and testing sets
+## 5. 📊 Data Processing & Evaluation
 
-Training and comparing multiple machine-learning algorithms
+Working with datasets helped me understand the importance of preparing data before training a model.
 
-Evaluating models using accuracy and precision
+The general workflow followed was:
 
-Experimenting with ensemble methods to improve performance
+```text
+Raw Dataset
+     ↓
+Data Cleaning
+     ↓
+Exploratory Data Analysis
+     ↓
+Text Preprocessing
+     ↓
+Feature Extraction
+     ↓
+Train/Test Split
+     ↓
+Model Training
+     ↓
+Model Evaluation
+     ↓
+Optimization
+```
 
-The dataset contained 5,572 initial records. After cleaning and removing duplicates, 5,169 messages remained, including 4,516 Ham and 653 Spam messages.
+I also learned that model development does not end after training. Different algorithms and configurations need to be compared using suitable evaluation metrics.
 
-Model Results
+---
 
-Several algorithms were tested, including Naive Bayes, Extra Trees, Random Forest, SVC, Logistic Regression, AdaBoost, XGBoost, and others.
+## 6. 📖 Documentation & Professional Skills
 
-The strongest recorded result from the project was obtained using a Soft Voting Classifier, combining SVC, Multinomial Naive Bayes, and Extra Trees:
+Another important aspect of the internship was learning how to document technical work clearly.
 
-Accuracy: 98.16%
+I gained experience in:
 
-Precision: 99.17%
+* Organizing project files
+* Recording results
+* Explaining technical processes
+* Presenting project outcomes
+* Writing structured documentation
+* Communicating technical concepts clearly
 
-This experiment helped demonstrate how combining multiple models can improve classification performance.
+These skills are important for working effectively in professional development environments.
 
-Key Internship Takeaways
+---
 
-Through this internship, I developed a better understanding of:
+# 🚨 Project: SMS Spam Detection
 
-Applying programming concepts to practical problems
+As part of my technical work during the internship, I developed a **Machine Learning-based SMS Spam Detection System**.
 
-Working with data and machine-learning pipelines
+### 🎯 Objective
 
-Understanding and preprocessing text data
+The primary objective of the project was to automatically classify SMS messages into two categories:
 
-Comparing different machine-learning algorithms
+```text
+┌─────────────────────┐
+│      SMS MESSAGE    │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ Text Preprocessing  │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│   TF-IDF Features   │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ Machine Learning    │
+│       Model         │
+└──────────┬──────────┘
+           ↓
+     ┌─────┴─────┐
+     ↓           ↓
+   HAM         SPAM
+```
 
-Evaluating models using meaningful metrics
+---
 
-Debugging and improving technical solutions
+# 🔬 Project Workflow
 
-Organizing and documenting project work
+The project involved several stages of data processing and machine learning.
 
-Approaching problems with a practical, solution-oriented mindset
+### 1. Dataset Preparation
 
-Most importantly, the internship helped me move beyond learning concepts theoretically and gave me experience in applying those concepts to a complete technical project.
+The dataset initially contained:
 
-Certificate
+```text
+Total Records: 5,572
+```
 
-The internship certificate confirms completion of the 1 Month AICTE & ICAC Approved Internship Program at Codec Technologies Pvt. Ltd. in the role of Web Developer Intern, conducted from 01/07/2026 to 30/07/2026. fileciteturn3file0L10-L20
+After removing duplicate records and unnecessary data:
 
-Conclusion
+```text
+Final Records: 5,169
 
-This internship was a valuable learning experience that strengthened both my technical knowledge and my approach to solving real-world problems. The combination of training, practical tasks, project development, evaluation, and documentation helped me gain a clearer understanding of professional software and technology workflows.
+Ham Messages  : 4,516
+Spam Messages :   653
+```
 
-The experience has given me a stronger foundation for future opportunities in web development, Python, data analysis, and machine learning.
+---
 
-Acknowledgement
+### 2. 🧹 Data Cleaning
 
-I sincerely thank Codec Technologies Pvt. Ltd. for providing me with this internship opportunity and for giving me the platform to develop practical technical skills. I am also grateful to the project and training team for their guidance throughout the internship.
+The dataset was cleaned by:
 
-Intern: Lekisha
+* Removing duplicate records
+* Removing unnecessary columns
+* Handling the required data fields
+* Preparing the dataset for further analysis
+
+---
+
+### 3. 📈 Exploratory Data Analysis
+
+Exploratory analysis was performed to understand:
+
+* Distribution of Ham and Spam messages
+* Dataset characteristics
+* Text patterns
+* Class imbalance
+* Important properties of the messages
+
+---
+
+### 4. 🔤 Text Preprocessing
+
+The SMS messages were transformed into a suitable format for machine learning.
+
+The preprocessing process included:
+
+```text
+Raw Text
+   ↓
+Tokenization
+   ↓
+Stopword Removal
+   ↓
+Stemming
+   ↓
+Clean Text
+```
+
+---
+
+### 5. 🔢 TF-IDF Feature Extraction
+
+The cleaned text was converted into numerical features using **TF-IDF (Term Frequency–Inverse Document Frequency)**.
+
+```text
+Text Data
+    ↓
+TF-IDF Vectorization
+    ↓
+Numerical Feature Matrix
+    ↓
+Machine Learning Models
+```
+
+This allowed machine-learning algorithms to process the textual information.
+
+---
+
+# 🤖 Machine Learning Models
+
+Multiple algorithms were trained and compared during the project.
+
+Some of the algorithms tested included:
+
+| Algorithm                       |
+| ------------------------------- |
+| Naive Bayes                     |
+| Extra Trees                     |
+| Random Forest                   |
+| Support Vector Classifier (SVC) |
+| Logistic Regression             |
+| AdaBoost                        |
+| XGBoost                         |
+| Ensemble Models                 |
+
+The models were evaluated using metrics such as:
+
+* **Accuracy**
+* **Precision**
+
+---
+
+# 🏆 Best Model Result
+
+The strongest recorded result was obtained using a **Soft Voting Classifier** combining:
+
+```text
+SVC
+  +
+Multinomial Naive Bayes
+  +
+Extra Trees
+```
+
+### 📊 Performance
+
+```text
+┌───────────────────────────────┐
+│       MODEL PERFORMANCE       │
+├───────────────────────────────┤
+│ Accuracy  : 98.16%            │
+│ Precision : 99.17%            │
+└───────────────────────────────┘
+```
+
+This experiment demonstrated how combining multiple machine-learning models can improve classification performance.
+
+---
+
+# 💡 Key Internship Takeaways
+
+Through this internship, I developed a stronger understanding of:
+
+```text
+✓ Practical Programming
+✓ Python Development
+✓ Data Cleaning
+✓ Exploratory Data Analysis
+✓ Text Preprocessing
+✓ TF-IDF Feature Extraction
+✓ Machine Learning
+✓ Model Training
+✓ Model Evaluation
+✓ Ensemble Learning
+✓ Debugging
+✓ Technical Documentation
+```
+
+More importantly, I learned how to approach technical problems with a **practical and solution-oriented mindset** rather than relying only on theoretical knowledge.
+
+---
+
+# 🧠 Skills Developed
+
+### Technical Skills
+
+| Category            | Skills                                   |
+| ------------------- | ---------------------------------------- |
+| Programming         | Python                                   |
+| Data Processing     | Data Cleaning, Preprocessing             |
+| Data Analysis       | Exploratory Data Analysis                |
+| NLP                 | Tokenization, Stopword Removal, Stemming |
+| Feature Engineering | TF-IDF                                   |
+| Machine Learning    | Classification Algorithms                |
+| Model Evaluation    | Accuracy, Precision                      |
+| Ensemble Learning   | Soft Voting Classifier                   |
+| Development         | Debugging & Testing                      |
+| Documentation       | Technical Documentation                  |
+
+---
+
+# 📜 Certificate
+
+The internship certificate confirms the successful completion of the **1 Month AICTE & ICAC Approved Internship Program** at **Codec Technologies Pvt. Ltd.**
+
+```text
+Internship Role : Web Developer Intern
+Organization    : Codec Technologies Pvt. Ltd.
+Duration        : 01 July 2026 – 30 July 2026
+Program         : AICTE & ICAC Approved
+```
+
+---
+
+# 🎓 Overall Learning
+
+The internship provided an opportunity to move beyond classroom-based theoretical learning and gain practical experience in technical project development.
+
+The combination of:
+
+```text
+Training
+   +
+Technical Tasks
+   +
+Project Development
+   +
+Data Analysis
+   +
+Machine Learning
+   +
+Model Evaluation
+   +
+Documentation
+```
+
+helped me build a stronger foundation in **Python, data analysis, machine learning, and practical software development workflows**.
+
+---
+
+# 🚀 Future Scope
+
+The knowledge and experience gained during this internship will help me explore future opportunities in:
+
+* Web Development
+* Python Development
+* Data Analysis
+* Machine Learning
+* Natural Language Processing
+* Artificial Intelligence
+* Software Development
+
+I aim to continue improving my technical skills by working on more real-world projects and exploring advanced machine-learning and AI technologies.
+
+---
+
+# 🙏 Acknowledgement
+
+I sincerely thank **Codec Technologies Pvt. Ltd.** for providing me with this internship opportunity and for giving me a platform to develop practical technical skills.
+
+I am also grateful to the **project and training team** for their guidance and support throughout the internship.
+
+This experience has been an important step in my technical learning journey and has motivated me to continue exploring the fields of **Artificial Intelligence, Machine Learning, Python, and Software Development**.
+
+---
+
+## 👩‍💻 Intern
+
+```text
+Name       : Lekisha
 Organization: Codec Technologies Pvt. Ltd.
-Role: Web Developer Intern
-Internship Duration: 01 July 2026 – 30 July 2026
+Role       : Web Developer Intern
+Duration   : 01 July 2026 – 30 July 2026
+```
+
+---
+
+## ⭐ Conclusion
+
+> **The internship transformed theoretical knowledge into practical experience and helped me develop the technical, analytical, and problem-solving skills required to approach real-world projects with confidence.**
+
+---
+
+### 📌 Repository Highlights
+
+```text
+📁 Internship Documentation
+📁 Machine Learning Project
+📊 Dataset Analysis
+🤖 SMS Spam Detection
+📈 Model Evaluation
+📝 Technical Learnings
+🏆 Internship Certificate
+```
+
+**Thank you for visiting this repository!** 🚀
