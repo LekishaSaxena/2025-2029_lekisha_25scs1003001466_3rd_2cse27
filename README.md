@@ -1,4 +1,4 @@
-# 🤖 Artificial Intelligence Internship – Codec Technologies
+# 🤖 Web Development Internship – Codec Technologies
 
 > **1 Month Internship | Web Developer Intern | AICTE & ICAC Approved**
 
@@ -206,9 +206,9 @@ The primary objective of the project was to automatically classify SMS messages 
 │       Model         │
 └──────────┬──────────┘
            ↓
-     ┌─────┴─────┐
-     ↓           ↓
-   HAM         SPAM
+      ┌─────┴─────┐
+      ↓           ↓
+    HAM         SPAM
 ```
 
 ---
